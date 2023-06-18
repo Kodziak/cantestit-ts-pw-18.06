@@ -1,3 +1,18 @@
+# Hey:)
+
+Linki do artykułów:
+
+- StackOverflow survey: https://survey.stackoverflow.co/2022/#technology-most-popular-technologies
+- PW vs Selenium vs Cypress: https://medium.com/tech-p7s1/why-favor-playwright-over-selenium-or-cypress-e96df84c08e1
+- Speed comparision: https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/
+- CI/CD: https://www.synopsys.com/glossary/what-is-cicd.html
+- CI/CD: https://www.redhat.com/en/topics/devops/what-is-ci-cd
+- Mój blog: https://www.kodziak.com
+
+Najwazniejszy link -> dokumentacja Playwright:
+
+- https://playwright.dev/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
